@@ -1,3 +1,13 @@
+# Dogs
+
+![](https://img.shields.io/github/languages/count/joseAllisson/Dogs) ![](https://img.shields.io/github/languages/top/joseAllisson/Dogs) ![](https://img.shields.io/github/contributors/joseAllisson/Dogs) ![](https://img.shields.io/github/last-commit/joseAllisson/Dogs) ![](https://img.shields.io/github/repo-size/joseAllisson/Dogs)
+
+Uma rede social para cachorros, feed de fotos, gráficos e muito mais.
+
+![dogs](https://user-images.githubusercontent.com/59458404/97092190-40602100-1618-11eb-8cc3-51e55852fede.PNG)
+![dogs2](https://user-images.githubusercontent.com/59458404/97092192-41914e00-1618-11eb-9776-e75c2cf228f7.PNG)
+![dogs3](https://user-images.githubusercontent.com/59458404/97092193-435b1180-1618-11eb-9099-b46da3788866.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
